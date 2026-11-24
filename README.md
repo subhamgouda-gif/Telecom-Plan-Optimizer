@@ -50,3 +50,7 @@ START -> Read subscriber -> Check each plan -> Validity and budget pass?
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://telecom-plan-optimizer-xev5ndbkbjgxwxhfo8w6s7.streamlit.app/
